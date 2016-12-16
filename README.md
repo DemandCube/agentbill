@@ -1,6 +1,10 @@
-FlumeBeat
+agentbill
 =========
 
+Features
+========
+- configurable billing interface
+- subscription management functions
 
 
 JMXSource - Overview
